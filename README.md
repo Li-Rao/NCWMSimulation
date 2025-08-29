@@ -1,6 +1,6 @@
 # Non-Commutative weak measurement
 
-The simulation source code for arXiv:.
+The simulation source code for arXiv:2508.15280.
 
 ## Simulation
 
